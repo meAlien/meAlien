@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Hadi
 - 👀 I’m interested in cs
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - discord ( alien_1.1 )
 - 😄 Pronouns: ...
